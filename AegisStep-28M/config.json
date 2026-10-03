@@ -1,0 +1,12 @@
+{
+  "model_name": "AegisStep-28M",
+  "d_model": 288,
+  "n_layers": 6,
+  "n_heads": 8,
+  "n_kv_heads": 2,
+  "d_ff": 576,
+  "num_experts": 4,
+  "top_k": 2,
+  "max_seq_len": 512,
+  "vocab_size": 50260
+}
