@@ -4,7 +4,7 @@ A ~28M-parameter **Process Reward Model (PRM)** built from scratch in PyTorch. I
 
 Every component is implemented by hand: sparse Mixture-of-Experts routing, Grouped-Query Attention, rotary embeddings, SwiGLU experts and RMSNorm. The model is trained from random initialization on [Math-Shepherd](https://huggingface.co/datasets/peiyi9979/Math-Shepherd).
 
-**Weights and model card:** https://huggingface.co/YOUR_HF_USERNAME/AegisStep-28M
+**Weights and model card:** https://huggingface.co/saqiibb/AegisStep-28M
 
 > **Status:** research and educational baseline. It is not a reliable verifier. See [Limitations](#limitations).
 
@@ -70,7 +70,7 @@ The trained weights, tokenizer and config are on Hugging Face: https://huggingfa
 | File | Description |
 |---|---|
 | `aegisstep_training.ipynb` | Model architecture, data pipeline, training and evaluation |
-| `README.md` | This file |
+| `README.md` |  |
 
 ## Lessons learned
 
