@@ -63,7 +63,7 @@ Everything (model code, data pipeline, training, evaluation) is in a single note
 2. Run the cells from top to bottom. The first cell installs the required packages (`datasets`, `transformers`, `scikit-learn`, `huggingface_hub`).
 3. Training takes about 30 minutes per epoch on a single Kaggle GPU (3 epochs).
 
-The trained weights, tokenizer and config are on Hugging Face: https://huggingface.co/YOUR_HF_USERNAME/AegisStep-28M
+The trained weights, tokenizer and config are on Hugging Face: https://huggingface.co/saqiibb/AegisStep-28M
 
 ## Repository contents
 
